@@ -67,6 +67,6 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>spring-k8s-jenkinsX</finalName>
+		<finalName>spring-k8s-jenkinsx</finalName>
 	</build>
 </project>
